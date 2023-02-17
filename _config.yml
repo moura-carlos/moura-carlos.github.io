@@ -61,8 +61,11 @@ plugins:
 author:
   name   : "Carlos Moura"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Software Developer."
   links:
+    - label: "San Francisco, CA, USA"
+      icon: "fas fa-map-marker-alt"
+      url: "#"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://github.com/moura-carlos"
