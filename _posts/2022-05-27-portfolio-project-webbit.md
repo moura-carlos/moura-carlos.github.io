@@ -17,6 +17,7 @@ tags:
     <li><a href="#skills">Skills</a></li>
     <li><a href="#proposal">Proposal</a></li>
     <li><a href="#youtube-video">YouTube video</a></li>
+    <li><a href="#what-i-did">What I did</a></li>
     <li>
       <a href="https://github.com/moura-carlos/webbit" target="_blank" style="text-decoration: none;">
       <i class="fab fa-fw fa-github"></i>
@@ -109,3 +110,6 @@ tags:
 
 <h4 id="youtube-video">YouTube video</h4>
 <iframe width="1120" height="620" src="https://www.youtube.com/embed/qTPADRyDmfM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<h3 id="what-i-did">What I did</h3>
+<iframe src="/assets/pdfs/WebbitExplanation.pdf" height="620" width="1120"></iframe>
